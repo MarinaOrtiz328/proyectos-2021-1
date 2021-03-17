@@ -1,7 +1,6 @@
 /*
 
  * C Program to List Files in Directory
-
  */
 
 #include <dirent.h>
